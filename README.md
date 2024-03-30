@@ -19,8 +19,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-recipe-page-RgSF0cYZJO)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-recipe-page-RgSF0cYZJO)
+- Live Site URL: [Netlify](https://recipe-page245.netlify.app/)
 
 ## My process
 
